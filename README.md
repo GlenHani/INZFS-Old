@@ -1,1 +1,1 @@
-# INFZS-
+# INFZS
