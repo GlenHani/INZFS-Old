@@ -1,0 +1,40 @@
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\appsettings.json
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.exe
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.deps.json
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.runtimeconfig.json
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.runtimeconfig.dev.json
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.dll
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\ref\INFZS - Frontend.dll
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.pdb
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.Views.dll
+C:\Users\mhani\source\repos\INFZS\INFZS\bin\Debug\net5.0\INFZS - Frontend.Views.pdb
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.csprojAssemblyReference.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.AssemblyInfoInputs.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.AssemblyInfo.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.csproj.CoreCompileInputs.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.RazorAssemblyInfo.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.RazorAssemblyInfo.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\staticwebassets\INFZS - Frontend.StaticWebAssets.Manifest.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\staticwebassets\INFZS - Frontend.StaticWebAssets.xml
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\scopedcss\bundle\INFZS - Frontend.styles.css
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.TagHelpers.input.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.TagHelpers.output.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.RazorCoreGenerate.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.Views.pdb
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.dll
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\ref\INFZS - Frontend.dll
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.pdb
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.genruntimeconfig.cache
+C:\Users\mhani\source\repos\INFZS\INFZS\obj\Debug\net5.0\INFZS - Frontend.csproj.CopyComplete

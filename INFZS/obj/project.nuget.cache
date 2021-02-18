@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9eDaVuKQn3h01AVYpx/8pZTUPHIcas/PP3y3RBWLICcnFjFkzvlfphoKRIZB47SDQX3yo6pkM/6uoQCf5E81g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhani\\source\\repos\\INFZS\\INFZS\\INFZS - Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhani\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
